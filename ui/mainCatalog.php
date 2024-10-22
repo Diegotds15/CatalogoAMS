@@ -7,7 +7,7 @@
     <title>mainCatalog</title>
 
     <!-- links -->
-    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./css/mainCatalog.css">
 </head>
 
 <body>
