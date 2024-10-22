@@ -24,7 +24,6 @@ Este repositório contém um catálogo em PHP com os emails das escolas de todos
 
 ## Estrutura do Projeto
 
-<<<<<<< HEAD
 catalogo-emails-escolas-amsul/ <br>
 ├── assets/ <br>
 │   └── rightimg.svg <br>
@@ -44,28 +43,6 @@ catalogo-emails-escolas-amsul/ <br>
 ├── .gitattributes <br>
 ├── index.php <br>
 └── LICENSE <br>
-=======
-catalogo-emails-escolas-amsul/
-
-├── assets/
-│   └── rightimg.svg
-├── css/
-│   ├── header.css
-│   ├── main.css
-│   └── mainCatalog.css
-├── db/
-│   └── database.sql
-├── pages/
-│   ├── catalogo.php
-│   └── inicio.php
-├── ui/
-│   ├── header.php
-│   ├── main.php
-│   └── mainCatalog.php
-├── .gitattributes
-├── index.php
-└── LICENSE
->>>>>>> 44f802d856d6c2cd9a4483067154cca9e5bd3c4b
 
 * **assets/:** Diretório que contém imagens e outros recursos.
     * **rightimg.svg:** Imagem utilizada no projeto.
