@@ -25,6 +25,7 @@ Este repositório contém um catálogo em PHP com os emails das escolas de todos
 ## Estrutura do Projeto
 
 catalogo-emails-escolas-amsul/
+
 ├── assets/
 │   └── rightimg.svg
 ├── css/
