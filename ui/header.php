@@ -16,9 +16,9 @@
             <h1>CATALOGO AMS</h1>
             <nav>
                 <ul>
-                    <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Catalogo</a></li>
-                    <li><a href="#">Contato</a></li>
+                    <li><a href="index.php?p=inicio">Inicio</a></li>
+                    <li><a href="index.php?p=catalog">Catalogo</a></li>
+                    <li><a href="index.php?p=contato">Contato</a></li>
                 </ul>
             </nav>
         </div>
