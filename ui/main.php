@@ -13,7 +13,7 @@
             <div class="left">
                 <h1>Lista de Contatos AMS</h1>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. Cevadis im pola pa arma uma pindureta. Ô gente finis, pode baixar uma ampolis que hoje é sexta-feris! Paisis, filhis, espiritis santis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.</p>
-                <button class="btn-catalog-home">Ver Catalogo</button>
+                <a href="index.php?p=catalog" href="index.php?p=catalog" class="btn-catalog-home">Ver Catalogo</a>
             </div>
 
             <div class="right">

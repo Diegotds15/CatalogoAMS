@@ -13,7 +13,7 @@
 <body>
     <header>
         <div class="container">
-            <h1>CATALOGO AMS</h1>
+            <h1 class="catalogo-ams">CATALOGO AMS</h1>
             <nav>
                 <ul>
                     <li><a href="index.php?p=inicio">Inicio</a></li>

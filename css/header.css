@@ -6,27 +6,33 @@
     box-sizing: border-box;
 }
 
+header {
+    height: 110px;
+
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    background-color: #454545;
+}
+
 .container {
+    min-width: 800px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
 
-    width: 994px;
+    width: 78%;
+    height: 100%;
     margin: 0 auto;
 }
 
-header {
-    height: 50px;
-
-    background-color: #454545;
-    font-family: "Poppins", sans-serif;
-
-    color: #fff;
+h1 {
+    font-size: 24px;
+    margin: 40px 0 0 0;
 }
 
 nav ul{
     list-style: none; /* Remove as bolinhas */
-    margin: 12px 0 0 0;  /* Retira o tamnho das margens */
+    margin-top: 40px;  /* Retira o tamnho das margens */
     padding: 0;
 }
 
@@ -35,17 +41,14 @@ nav li {
 }
 
 nav a {
-    padding: 20px 10px;
+    font-size: 24px;
+    padding: 10px;
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
+    font-weight: 500;
 }
 
 nav a:hover {
     color: #ddd;
-}
-
-h1 {
-    font-size: 20px;
-    margin: 10px 0 0 0;
 }
